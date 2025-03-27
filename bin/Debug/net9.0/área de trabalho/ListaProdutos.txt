@@ -1,0 +1,8 @@
+ID: 1
+Nome: Mouse
+Quantidade: 50
+Preço: 200
+ID: 2
+Nome: Teclado
+Quantidade: 60
+Preço: 400
